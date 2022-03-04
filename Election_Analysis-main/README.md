@@ -38,7 +38,7 @@ The full analytical review of the election results show:
 
 - Denver county had the largest voter turnout, by far.
 
-![READOUT GALLERY](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/Resources/readout_gallery.png)
+![READOUT GALLERY](https://github.com/Josie-Boyer/electionanalysis/blob/main/election%20analysisreadme.png)
 
 ## Summary
 The elegant code we've compiled here has functionality that can handle massive amounts of data, far beyond this single election.  We'd like to propose using this code to handle all your future election analysis, as it can be given minor tweaks to process whatever voter data you have available. With more data, we can add processes to identify which age range the majority of each candidate's voters belong to, what percentage of voters did so by mail (if applicable), or even what economic group comprise the majority of a candidate's voter base.
