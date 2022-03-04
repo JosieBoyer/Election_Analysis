@@ -2,8 +2,6 @@
 
 [Overview](#overview-of-election-audit)
 
-[Resources](#resources)
-
 [Election Audit Results](#election-audit-results)
 
 [Summary](#summary)
@@ -19,10 +17,6 @@ Our client, the Colorado Board of Elections, has tasked us with auditing the res
 6. Calculate how many votes were received in each county, and their percentage of the total votes.
 7. Determine which county had the largest voter turnout.
 
-## Resources
-- Data Source: [election_results.csv](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/Resources/election_results.csv)
-- Python Code: [PyPoll_Challenge_starter_code.py](https://github.com/ZeroDarkHardy/Election_Analysis/blob/main/PyPoll_Challenge_starter_code.py)
-- Software: Python 3.10.0, Visual Studio Code 1.62.0
 
 ## Election Audit Results
 The full analytical review of the election results show:
